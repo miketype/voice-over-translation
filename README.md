@@ -104,7 +104,7 @@ npm i
 | ⠀✅ | Vivaldi | 5.7.2921.63 | Windows, Linux | Tampermonkey
 | ⠀❔ | Safari | v15.6.1 | MaOS | Userscripts
 | ⠀✅ | Kiwi Browser | v116.0.5845.61 | Android | Tampermonkey
-| ⠀✅ | Firefox Nightly Edition | v118.0a1 | Android | Tampermonkey
+| ⠀✅ | Firefox Nightly | v118.0a1 | Android | Tampermonkey
 
 
 ## Протестировано в следующих расширениях для юзерскриптов:
