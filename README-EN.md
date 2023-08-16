@@ -87,7 +87,7 @@ npm i
 | Status | Browser | Browser Version | Platform | Extension
 |---|---|---|---|---
 | ⠀✅ | Firefox Developer Edition | v106.0b4, 64 bit | Windows | Tampermonkey
-| ⠀✅ | Firefox | v105.0.1 | Linux | Tampermonkey
+| ⠀✅ | Firefox | v116.0.2 | Windows/Linux/Android | Tampermonkey
 | ⠀✅ | LibreWolf | v100.0.2-1 | Windows | Tampermonkey
 | ⠀✅ | Brave | v106.0.5249.91 | Windows | Tampermonkey
 | ⠀✅ | MS Edge | v106.0.1370.34 | Windows, Linux | Tampermonkey
@@ -95,9 +95,11 @@ npm i
 | ⠀✅ | Cent Browser Beta | v5.0.1002.182, 64 bit | Windows | Tampermonkey
 | ⠀✅ | Google Chrome | v106.0.5249.91 | Windows, MacOS, Linux | Tampermonkey, Violetmonkey
 | ⠀✅ | Opera GX | LVL4 (core: 91.0.4516.36) | Windows | Tampermonkey
-| ⠀✅ | Opera | v92.0.4561.43 | Windows | Tampermonkey
+| ⠀✅ | Opera | v101.0.4843.43 | Windows, Linux | Tampermonkey
 | ⠀✅ | Vivaldi | 5.7.2921.63 | Windows, Linux | Tampermonkey
 | ⠀❔ | Safari | v15.6.1 | MacOS | Userscripts
+| ⠀✅ | Kiwi Browser | v116.0.5845.61 | Android | Tampermonkey
+| ⠀✅ | Firefox Nightly | v118.0a1 | Android | Tampermonkey
 
 ## Tested in the following extensions for user scripts:
 | Status | Browser | Extension
